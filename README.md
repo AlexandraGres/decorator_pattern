@@ -1,1 +1,1 @@
-# decorator_pattern
+# This is example of decorator pattern
